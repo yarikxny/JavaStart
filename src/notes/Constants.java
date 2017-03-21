@@ -5,4 +5,8 @@ package notes;
  */
 public class Constants {
     public static final int YEARSOLD = 29;
+    public static int showAge(){
+        System.out.println(YEARSOLD);
+        return 0;
+    }
 }

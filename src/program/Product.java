@@ -3,7 +3,7 @@ package program;
 /**
  * Created by yarik on 13.11.2016.
  */
-public abstract class Product implements IProduct {
+public class Product implements IProduct {
     private String name;
     private double price;
     private int quantity;

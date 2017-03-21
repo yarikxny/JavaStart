@@ -5,4 +5,9 @@ package notes;
  */
 public class Notes {
     int yearsOld = Constants.YEARSOLD;
+    int yearsOld2 = Constants.showAge();
+    public void printResult(){
+        System.out.println(yearsOld);
+        System.out.println(yearsOld2);
+    }
 }
