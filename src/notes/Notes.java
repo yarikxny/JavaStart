@@ -10,4 +10,5 @@ public class Notes {
         System.out.println(yearsOld);
         System.out.println(yearsOld2);
     }
+
 }
