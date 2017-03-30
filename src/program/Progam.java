@@ -81,7 +81,6 @@ public class Progam {
         product.setName(name);
         product.setPrice(Double.valueOf(price));
         product.setQuantity(Integer.valueOf(quan));
-
         return product;
     }
 
